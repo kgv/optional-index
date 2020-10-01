@@ -8,5 +8,3 @@
 [![Minimum rustc version](https://img.shields.io/badge/rustc-1.32+-lightgray.svg)](https://github.com/kgv/optional-index#rust-version-requirements)
 
 Optional indexing operations.
-
-## Usage
